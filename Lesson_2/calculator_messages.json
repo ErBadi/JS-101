@@ -1,0 +1,11 @@
+{
+
+"welcome" : "Welcome to the elfic calculator HD PLUS MAX 360!",
+"numbers" : ["What is the first number? ", "What is the second number? "],
+"invalid" : ["That doesn't look like a valid input, try again", "Choose between the valid options", "Not a valid input", "This is an invalid input, write Yes or No to the answer"],
+"operation" : ["What operation would you like to perform?\n1) Add 2) Substract 3) Multiply 4) Divide", "Would you like to perform another calculation? (Yes or No)"],
+"result" : "The result is: ",
+"answer" : ["Yes", "No"],
+"bye" : "See you soon cheetah!"
+
+}
